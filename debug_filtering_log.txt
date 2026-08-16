@@ -1,0 +1,8 @@
+[2026-08-05 10:15:22] local.INFO: [RAG] Hybrid Retrieval completed. 
+[2026-08-05 10:15:22] local.INFO: Documents retrieved from vector DB: 1000
+[2026-08-05 10:15:22] local.INFO: [RAG] Applying Strict Post-Filtering...
+[2026-08-05 10:15:22] local.INFO: Criteria: {"negara":["Australia"],"jenjang":["S1"]}
+[2026-08-05 10:15:22] local.INFO: Filtered out (Degree mismatch): 614 documents
+[2026-08-05 10:15:22] local.INFO: Filtered out (Country mismatch): 381 documents
+[2026-08-05 10:15:22] local.INFO: Documents passing strict filter: 5
+[2026-08-05 10:15:22] local.INFO: [RAG] Proceeding to Generation & Output Formatting with 5 documents.

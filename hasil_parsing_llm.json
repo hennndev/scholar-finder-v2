@@ -1,0 +1,9 @@
+{
+  "intent": "search",
+  "negara": ["australia"],
+  "benua": ["australia"],
+  "jenjang": ["S1"],
+  "funding": null,
+  "still_open": false,
+  "query_scope": "new_search"
+}

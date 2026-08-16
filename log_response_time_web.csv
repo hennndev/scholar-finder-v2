@@ -85,3 +85,771 @@
 "2026-06-27 06:47:20","berikan beasiswa master di universitas indonesia",16.469,OK
 "2026-06-28 04:07:40","carikan beasiswa universitas indonesia",9.225,OK
 "2026-06-28 04:15:37","carikan beasiswa universitas indonesia",1.866,OK
+"2026-06-28 05:37:47","berikan beasiswa master universitas gajah mada",8.502,OK
+"2026-06-28 05:38:16","okey terima kasih ya",3.656,OK
+"2026-06-29 00:26:18","berikan beasiswa dn untuk fresh graduate",15,OK
+"2026-06-29 00:26:33","no 1",3.485,OK
+"2026-06-29 00:26:56","apakah beasiswa tersebut khusus fresh graduate?",10.868,OK
+"2026-06-29 00:27:27","berikan beasiswa S1 dalam negeri",9.018,OK
+"2026-06-29 00:29:47","berikan beasiswa S2 luar negeri",9.639,OK
+"2026-06-29 00:30:23","Berikan beasiswa s3 dalam negeri",7.522,OK
+"2026-06-29 00:30:46","berikan beasiswa s1 di negara jepang",10.763,OK
+"2026-06-29 00:31:03","carikan beasiswa di benua eropa",9.233,OK
+"2026-06-29 00:32:26","carikan beasiswa di benua asia",10.915,OK
+"2026-06-29 00:32:45","carikan beasiswa di benua australia",9.221,OK
+"2026-06-29 00:33:03","carikan beasiswa di benua amerika",6.822,OK
+"2026-06-29 00:33:33","carikan beasiswa ff",7.639,OK
+"2026-06-29 00:35:49","berikan beasiswa pf",6.027,OK
+"2026-06-29 00:36:43","carikan beasiswa sarjana jurusan informatika di amerika",5.769,OK
+"2026-06-29 00:37:28","no 3",2.354,OK
+"2026-06-29 00:37:41","beasiswa tersebut jurusan informatika?",2.293,OK
+"2026-06-29 00:38:19","berikan beasiswa S2 di jerman",5.291,OK
+"2026-06-29 00:38:41","berikan beasiswa s1 ff",5.499,OK
+"2026-06-29 00:39:21","berikan beasiswa S3 di australia yang didanai penuh",6.018,OK
+"2026-06-29 00:39:54","berikan beasiswa di jepang yang masih buka dengan syarat ipk minimal 3",6.636,OK
+"2026-06-29 00:40:17","berikan beasiswa di australia yang masih buka dengan syarat ipk minimal 3",6.285,OK
+"2026-06-29 00:40:26","no 2",2.27,OK
+"2026-06-29 00:40:42","syarat ipk minimal beasiswa ini berapa",3.95,OK
+"2026-06-29 00:41:01",kembali,2.668,OK
+"2026-06-29 00:41:07","no 1",2.355,OK
+"2026-06-29 00:41:18","apakah beasiswa tersebut syarat ipk minimal 3?",2.221,OK
+"2026-06-29 00:41:29",syarat,3.837,OK
+"2026-06-29 00:41:44","berikan link beasiswa no 2",2.217,OK
+"2026-06-29 00:42:11","cara mendaftar nya gmn",2.332,OK
+"2026-06-29 00:42:58","berikan beasiswa dengan syarat ipk minimal 3",7.362,OK
+"2026-06-29 00:43:09","no 3",2.423,OK
+"2026-06-29 00:43:22","apakah beasiswa tersebut ipk minimal 3?",2.218,OK
+"2026-06-29 00:44:07","berikan beasiswa dengan syarat ipk minimal 3.50",6.21,OK
+"2026-06-29 00:44:18","no 4",2.312,OK
+"2026-06-29 00:44:35","apakah beasiswa tersebut ipk minima 3.50?",4.196,OK
+"2026-06-29 00:45:18","berikan beasiswa ln batas usia 25 tahun",6.584,OK
+"2026-06-29 00:45:26","no 5",2.386,OK
+"2026-06-29 00:45:39","beasiswa tersebut batas umurnya berap",2.261,OK
+"2026-06-29 00:45:58",syarat,3.484,OK
+"2026-06-29 00:46:38","berikan beasiswa ln dengan syarat IETLS minimal 6.0",6.147,OK
+"2026-06-29 00:46:52","yang masih buka",5.892,OK
+"2026-06-29 00:47:03","no 6",2.294,OK
+"2026-06-29 00:47:19","apakah beasiswa tersebut IETLS minimal 6.0?",2.655,OK
+"2026-06-29 00:47:52","berikan beasiswa ln dengan syarat TOEFLminimal 550",6.318,OK
+"2026-06-29 00:48:04","yang masih buka",5.933,OK
+"2026-06-29 00:48:14","no 3",2.456,OK
+"2026-06-29 00:48:29","beasiswa tersebut toefl min 550?",2.316,OK
+"2026-06-29 00:48:53","berikan beasiswa tanpa syarat TOEFL/IELTS",5.81,OK
+"2026-06-29 00:49:02","no 3",2.554,OK
+"2026-06-29 00:49:14","beasiswa tersebut tanpa syarat TOEFL/IELTS?",2.143,OK
+"2026-06-29 00:49:44","carikan beasiswa ln tanpa batasan usia",6.498,OK
+"2026-06-29 00:49:55","yang masih buka",5.976,OK
+"2026-06-29 00:50:10","no 5",2.18,OK
+"2026-06-29 00:50:30","apakah beasiswa tersebut tanpa batasan usia?",2.475,OK
+"2026-06-29 00:50:52","berikan beasiswa ln tanpa syarat ipk  min",5.546,OK
+"2026-06-29 00:51:03","yang masih buka",6.561,OK
+"2026-06-29 00:51:14","no 4",2.76,OK
+"2026-06-29 00:51:25","beasiswa tersebut ada syarat ipk ngga?",2.07,OK
+"2026-06-29 00:53:12","berikan beasiswa ln tanpa proses wawancara",6.768,OK
+"2026-06-29 00:53:22","yang masih buka",5.922,OK
+"2026-06-29 00:53:39","no 3",2.752,OK
+"2026-06-29 00:53:53","apakah beassiwa tersebut tanpa proses wawancara?",6.427,OK
+"2026-06-29 00:55:11","berikan beasiswa yang mewajibkan bahasa Jepang (JLPT)",6.449,OK
+"2026-06-29 00:55:29","yang masih buka ada ngga",5.589,OK
+"2026-06-29 00:55:43","no 2",2.18,OK
+"2026-06-29 00:55:56","apakah wajib bahasa jepang?",2.485,OK
+"2026-06-29 00:57:06","berikan beasiswa yang wajib berbahasa jepang",41.889,OK
+"2026-06-29 00:57:45","yang masih buka",21.23,OK
+"2026-06-29 00:58:17","berikan beasiswa yang wajib sertifikat bahasa jepang",5.936,OK
+"2026-06-29 00:58:28","no 5",2.984,OK
+"2026-06-29 00:58:36","apakah wajib sertifikat?",2.155,OK
+"2026-06-29 01:01:59","berikan beasiswa ln yang masih buka pendaftarannya",6.516,OK
+"2026-06-29 01:02:27","berikan beasiswa dl bulan agustus",5.432,OK
+"2026-06-29 01:02:39","berikan beasiswa tahun 2026",4.816,OK
+"2026-06-29 01:02:49","berikan beasiswa tahun 2027",3.335,OK
+"2026-06-29 01:03:55","berikan beasiswa yang deadline terdekat",7.004,OK
+"2026-06-29 01:04:29",next,2.962,OK
+"2026-06-29 01:04:40","yang lain",2.75,OK
+"2026-06-29 01:04:48",selanjutnya,2.491,OK
+"2026-06-29 01:05:07","berikan beasiswa s1 di benua eropa",6.33,OK
+"2026-06-29 01:05:21","berikan beasiswa Master Fully Funded Amerika",5.327,OK
+"2026-06-29 01:06:02","berikan beasiswa Sarjana Partially Funded Australia yang masih buka",5.276,OK
+"2026-06-29 01:06:31","berikan beasiswa Sarjana jurusan Informatika di Amerika",5.918,OK
+"2026-06-29 01:09:16","yang masih buka",6.765,OK
+"2026-06-29 01:10:00","berikan beasiswa Sarjana jurusan Informatika di australia",8.114,OK
+"2026-06-29 01:10:23","yang masih buka da ngga",6.01,OK
+"2026-06-29 01:10:46","berikan beasiswa Sarjana jurusan Informatika yang masih buka",5.902,OK
+"2026-06-29 01:11:20","no 3",2.415,OK
+"2026-06-29 01:21:47","berikan beasiswa s1 ln",6.852,OK
+"2026-06-29 01:21:56","Saya mau kuliah di Jepang pakai beasiswa penuh",5.696,OK
+"2026-06-29 01:22:08","Beasiswa tanpa IELTS ada?",5.487,OK
+"2026-06-29 01:22:14","Halo, selamat pagi kak mau tanya",2.499,OK
+"2026-06-29 01:22:52","berikan beasiswa s2 di turki",6.295,OK
+"2026-06-29 01:23:01","Tolong tampilkan halaman berikutnya",2.112,OK
+"2026-06-29 01:23:11","Balik ke list sebelumnya",2.773,OK
+"2026-06-29 01:23:44","Tolong jelaskan apa saja benefit beasiswa nomor 7",4.479,OK
+"2026-06-29 01:23:53","Bagaimana cara mendaftar beasiswa tersebut?",2.158,OK
+"2026-06-29 01:23:59","Apakah beasiswa nomor 1 berlokasi di Jepang?",2.285,OK
+"2026-06-29 01:24:15","Ada syarat minimal IPK ga untuk beasiswa ini?",2.046,OK
+"2026-06-29 01:24:23","Cara membuat nasi goreng Aceh bagaimana ya?",2.148,OK
+"2026-06-29 01:24:35","Beasiswa S2 IT di negara Jerman",5.696,OK
+"2026-06-29 01:25:08","Saya berumur 30 tahun, ada beasiswa S3?",6.498,OK
+"2026-06-29 01:25:16","no 2",2.601,OK
+"2026-06-29 01:25:24","syarat umurnya 30?",2.337,OK
+"2026-06-29 01:25:38",syarat,3.832,OK
+"2026-06-29 01:27:24","Oke, saya paham kak",2.541,OK
+"2026-06-29 01:27:30","Terima kasih banyak ya bantuannya",2.712,OK
+"2026-06-29 01:27:47","Cari beasiswa S1 luar negeri tanpa batasan umur",6.034,OK
+"2026-06-29 01:46:28","Tampilkan beasiswa S3 selain di negara Amerika",13.273,OK
+"2026-06-29 01:46:43","Cari beasiswa S2 yang deadline-nya bulan depan",7.111,OK
+"2026-06-29 01:46:55","berikan Beasiswa yang minta skor TOEFL minimal 500",5.584,OK
+"2026-06-29 01:47:08","no 5",2.603,OK
+"2026-06-29 01:47:20","skor toefl nya minimal berapa",3.664,OK
+"2026-06-29 01:50:31","Kapan deadline pendaftaran beasiswa nomor 4?",2.389,OK
+"2026-06-29 01:50:39","Kasih tau link resmi website beasiswa ini dong",2.303,OK
+"2026-06-29 01:50:46","Apakah beasiswa nomor 2 ini tipenya fully funded?",2.058,OK
+"2026-06-29 01:52:36","Tampilkan beasiswa luar negeri yang masih buka",6.295,OK
+"2026-06-29 01:53:08","berikan Beasiswa pertukaran pelajar (exchange) di Korea",5.204,OK
+"2026-06-29 01:53:31","berikan Rekomendasi beasiswa S1 dengan IPK minimal 3.25",5.575,OK
+"2026-06-29 01:53:41","no 2",2.068,OK
+"2026-06-29 01:53:49","ipk nya minimal berapa?",2.34,OK
+"2026-06-29 01:54:36","Tampilkan beasiswa di benua Asia untuk S2",7.383,OK
+"2026-06-29 01:54:58","Siapa pencipta lagu Indonesia Raya?",2.032,OK
+"2026-06-29 01:55:12","Ada beasiswa UGM untuk tahun 2026?",1.995,OK
+"2026-06-29 01:56:20","berikan Beasiswa Khusus Perempuan",6.829,OK
+"2026-06-29 01:56:33","Siapa pencipta lagu Indonesia Raya?",2.066,OK
+"2026-06-29 01:56:39","Assalamualaikum, mau tanya-tanya tentang beasiswa",2.619,OK
+"2026-06-29 02:06:25","berikan beasiswa khusus perempuan",6.049,OK
+"2026-06-29 02:18:28","berikan beasiswa khusus perempuan",6.884,OK
+"2026-06-29 02:18:57","berikan beasiswa khusus perempuan",8.17,OK
+"2026-06-29 02:33:27","berikan beasiswa khusus perempuan",47.875,OK
+"2026-06-29 08:52:54","Berapa suhu di kota Jakarta hari ini?",7.176,OK
+"2026-06-29 08:53:09","Beasiswa S1 dalam negeri untuk tahun 2025",9.725,OK
+"2026-06-29 08:53:23","Cari beasiswa S1 di benua Australia",9.802,OK
+"2026-06-29 08:53:44","Beasiswa S3 selain yang bertipe partially funded",9.724,OK
+"2026-06-29 08:54:06","no 5",4.245,OK
+"2026-06-29 08:54:20","Syarat pendaftaran beasiswa yang sedang saya pilih apa saja?",7.487,OK
+"2026-06-30 02:10:42","beasiswa tanpa wawancara",21.905,OK
+"2026-06-30 02:11:50","beasiswa tanpa wawancara",6.366,OK
+"2026-06-30 02:15:16","ada info beasiswa yang ga pake wawancara?",5.662,OK
+"2026-06-30 02:15:21","cari beasiswa tanpa proses wawancara dong",4.321,OK
+"2026-06-30 02:15:25","beasiswa no interview",4.202,OK
+"2026-06-30 02:20:52","beasiswa yang mewajibkan sertifikat bahasa Jepang (JLPT)",6.181,OK
+"2026-06-30 02:20:57","beasiswa dengan syarat JLPT",4.113,OK
+"2026-06-30 02:21:02","beasiswa yang butuh sertifikat HSK",5.092,OK
+"2026-06-30 02:21:06","beasiswa dengan syarat TOPIK korea",4.324,OK
+"2026-06-30 02:24:38","cari beasiswa S1 di Jepang yang mewajibkan JLPT dan masih dibuka",7.077,OK
+"2026-06-30 02:24:43","beasiswa master (S2) di Asia dengan syarat TOPIK korea yang belum tutup",5.112,OK
+"2026-06-30 02:25:03","cari beasiswa S1 di Jepang yang mewajibkan JLPT dan masih dibuka",5.289,OK
+"2026-06-30 02:25:08","beasiswa master (S2) di Asia dengan syarat TOPIK korea yang belum tutup",5.627,OK
+"2026-06-30 02:29:42","cari beasiswa S2 tanpa wawancara di Asia yang masih dibuka",5.645,OK
+"2026-06-30 02:29:47","beasiswa luar negeri tanpa proses wawancara yang segera tutup",4.161,OK
+"2026-06-30 02:32:15","beasiswa dengan syarat sertifikat bahasa jerman (Goethe)",43.103,OK
+"2026-06-30 02:32:54","beasiswa yang mewajibkan Goethe atau TestDaF",38.924,OK
+"2026-06-30 02:36:37","beasiswa dengan syarat bahasa Arab",6.77,OK
+"2026-06-30 02:36:42","beasiswa yang mewajibkan sertifikat bahasa arab",4.729,OK
+"2026-06-30 02:39:00","beasiswa yang mewajibkan dokumen paspor",6.426,OK
+"2026-06-30 02:39:06","cari beasiswa dengan syarat paspor",5.61,OK
+"2026-06-30 02:57:51","berikan beasiswa khusus wanita",8.365,OK
+"2026-06-30 02:57:56","berikan beasiswa yang cuma cewe aja",5.045,OK
+"2026-06-30 03:02:57","berikan beasiswa yang menanggung biaya tiket pesawat",6.501,OK
+"2026-06-30 03:03:01","cari beasiswa yang dapet tiket pesawat gratis",4.492,OK
+"2026-06-30 03:03:18","berikan beasiswa yang menanggung biaya tiket pesawat",8.973,OK
+"2026-06-30 03:03:25","cari beasiswa yang dapet tiket pesawat gratis",7.007,OK
+"2026-06-30 03:09:02","Apakah beasiswa ini wajib punya surat rekomendasi?",5.518,OK
+"2026-06-30 03:09:07","perlu surat rekomendasi ga?",4.713,OK
+"2026-06-30 03:09:35","Apakah beasiswa ini wajib punya surat rekomendasi?",4.774,OK
+"2026-06-30 03:09:39","perlu surat rekomendasi ga?",4.357,OK
+"2026-06-30 03:11:12","Apakah beasiswa ini wajib punya surat rekomendasi?",2.367,OK
+"2026-06-30 03:17:05","assalamualaikum, mau tanya tanya dong",3.643,OK
+"2026-06-30 03:17:49","berikan saya beasiswa s1 dn dong",8.809,OK
+"2026-06-30 03:18:09","tapi yang masih buka dong",9.221,OK
+"2026-06-30 03:18:44","carikan beasiswa s2 di ln juga dong",11.358,OK
+"2026-06-30 03:19:54","yang belum tutu[",9.509,OK
+"2026-06-30 03:20:28","berikan semua beasiswa s3",8.8,OK
+"2026-06-30 03:20:48","tapi yang masih buka",9.913,OK
+"2026-06-30 03:22:15","berikan beasiswa ke jepang",9.765,OK
+"2026-06-30 03:23:14","berikan beasiswa di benua eropa",10.7,OK
+"2026-06-30 03:23:50","kalo di benua asia?",10.42,OK
+"2026-06-30 03:24:32","untuk di benua australia ada?",15.606,OK
+"2026-06-30 03:24:57","kalo benua amerika tapi yang belum tutup ada ngga bro",9.061,OK
+"2026-06-30 03:26:06","carikan beasiswa fully funded di ln yang segera tutup",10.086,OK
+"2026-06-30 03:27:02","kalo yang partially funded ada?",9.763,OK
+"2026-06-30 03:28:08","berikan beasiswa sarjana jurusan informatika di ln yang masih buka dong",8.993,OK
+"2026-06-30 03:28:58","no 2",3.951,OK
+"2026-06-30 03:29:10","okey terima kasih ya bro",3.039,OK
+"2026-06-30 03:29:30","berikan beasiswa s2 di jerman dong",8.724,OK
+"2026-06-30 03:30:28","berikan beasiswa s1 fully funded",11.69,OK
+"2026-06-30 03:31:39","berikan beasiswa s3 di australia yang didanai penuh dong",9.236,OK
+"2026-06-30 03:32:53","ada ngga beasiswa di ln dengan syarat ipk minimal 3",8.783,OK
+"2026-06-30 03:34:17","no 3",4.438,OK
+"2026-06-30 03:34:35","syarat minimal ipk tersebut berapa",5.976,OK
+"2026-06-30 03:36:25","ada ngga beasiswa untuk batasan umur 25 tahun?",10.209,OK
+"2026-06-30 03:37:18","no 1",3.464,OK
+"2026-06-30 03:37:33","batasan umur beasiswa tersebut berapa tahun?",4.273,OK
+"2026-06-30 03:38:24","carikan beasiswa dengan syarat toefl minimal skor 550 di ln",14.338,OK
+"2026-06-30 03:39:18","tapi yang masih buka",9.146,OK
+"2026-06-30 03:39:33","no 4",3.423,OK
+"2026-06-30 03:39:49","syarat skor toefl nya harus berapa",5.677,OK
+"2026-06-30 03:40:27","berikan saya beasiswa ln tanpa syarat toefl/ietls",8.42,OK
+"2026-06-30 03:41:01","no 5",3.499,OK
+"2026-06-30 03:41:18","beasiswa tersebut tanpa ietls dan toefl kan?",3.231,OK
+"2026-06-30 03:42:35","carikan saya beasiswa dengan syarat tanpa batasan usia",14.448,OK
+"2026-06-30 03:43:04","no 1",3.255,OK
+"2026-06-30 03:43:22","beasiswa tersebut tanpa batasan usia?",3.705,OK
+"2026-06-30 03:44:08","ada ngga beasiswa ln tanpa syarat minimum ipk?",12.036,OK
+"2026-06-30 03:44:46","yang masih buka ada ngga tapi?",8.774,OK
+"2026-06-30 03:45:58","no 1",3.913,OK
+"2026-06-30 03:46:10","beasiswa tersebut ada syarat ipk ngga?",3.37,OK
+"2026-06-30 03:46:24","thank u",3.68,OK
+"2026-06-30 03:46:51","berikan beasiswa sarjana tanpa wawancara",9.515,OK
+"2026-06-30 03:48:44","tapi kalo yang masih buka ada ngga?",10.72,OK
+"2026-06-30 03:49:41","no 1",3.433,OK
+"2026-06-30 03:49:52","syaratnya ada wawancara nya ngga?",3.069,OK
+"2026-06-30 03:50:35","carikan aku beasiswa yang wajib mencantumkan sertifikat jepang dong",9.786,OK
+"2026-06-30 03:50:45","no 5",3.812,OK
+"2026-06-30 03:51:16","beasiswa tersebut harus mencantumkan sertifikat bahasa jepang ngga?",3.711,OK
+"2026-06-30 03:51:46",syarat,5.827,OK
+"2026-06-30 03:54:06","beasiswa yang mewajibkan sertifikat bahasa Jepang (JLPT)",6.397,OK
+"2026-06-30 03:54:12","beasiswa dengan syarat JLPT",5.661,OK
+"2026-06-30 03:54:18","beasiswa yang butuh sertifikat HSK",5.441,OK
+"2026-06-30 03:54:23","beasiswa dengan syarat TOPIK korea",5.419,OK
+"2026-06-30 03:57:29","ada ngga beasiswa yang wajib bisa bahasa jepang",6.22,OK
+"2026-06-30 03:57:35","berikan beasiswa yang tanpa wajib bisa berbahasa jepang",5.485,OK
+"2026-06-30 03:58:00","ada ngga beasiswa yang wajib bisa bahasa jepang",5.712,OK
+"2026-06-30 03:58:05","berikan beasiswa yang tanpa wajib bisa berbahasa jepang",4.362,OK
+"2026-06-30 03:58:53","carikan saya beasiswa yang tidak wajib bisa bahasa jepang",10.098,OK
+"2026-06-30 03:59:06","no 5",3.262,OK
+"2026-06-30 03:59:17","wajib bahasa jepang ngga?",3.651,OK
+"2026-06-30 04:00:53","berikan beasiswa yang wajib bisa bahasa jerman",8.219,OK
+"2026-06-30 04:01:43","no 1",5.06,OK
+"2026-06-30 04:01:58","beasiswa ini wajib bisa berbahasa jerman?",3.059,OK
+"2026-06-30 04:02:58",syarat,6.457,OK
+"2026-06-30 04:05:02","beasiswa dengan syarat sertifikat bahasa jerman (Goethe)",5.651,OK
+"2026-06-30 04:05:06","beasiswa yang mewajibkan Goethe atau TestDaF",4.682,OK
+"2026-06-30 04:05:29","berikan beasiswa yang wajib bisa bahasa jerman",5.751,OK
+"2026-06-30 04:07:11","berikan beasiswa yang wajib bisa bahasa jerman",7.649,OK
+"2026-06-30 04:08:27","carikan saya beasiswa yang wajib bisa bahasa jerman",8.596,OK
+"2026-06-30 04:08:58","no 5",3.298,OK
+"2026-06-30 04:09:09","wajib bahasa jerman?",3.658,OK
+"2026-06-30 04:09:50","ada ngga beasiswa wajib bisa bahasa arab?",9.098,OK
+"2026-06-30 04:10:54","yang masih buka aja dong",8.702,OK
+"2026-06-30 04:11:07","no 1",4.637,OK
+"2026-06-30 04:11:24","wajib bisa bahasa arab kah?",3.418,OK
+"2026-06-30 04:11:41",syarat,6.807,OK
+"2026-06-30 04:12:18","carikan beasiswa yang masih buka pendaftarannya",10.435,OK
+"2026-06-30 04:13:35","berikan saya easiswa dengan deadline bulan Agustus",9.497,OK
+"2026-06-30 04:14:20","carikan aku beasiswa dengan deadline tahun 2026",6.274,OK
+"2026-06-30 04:14:31","kalo yang 2027?",5.278,OK
+"2026-06-30 04:15:25","berikan beasiswa yang diurutkan berdasarkan deadline terdekat",9.616,OK
+"2026-06-30 04:15:49","ada ngga beasiswa S1 di benua Eropa",8.474,OK
+"2026-06-30 04:16:25","carikan beasiswa S2 kategori Fully Funded Amerika",8.605,OK
+"2026-06-30 04:16:46","berikan beasiswa S1 kategori Partially Funded Australia yang masih buka",7.925,OK
+"2026-06-30 04:18:03","ada ngga beasiswa S1 khusus jurusan Informatika yang masih buka",8.848,OK
+"2026-06-30 04:18:29","Tolong tampilkan halaman berikutnya",3.059,OK
+"2026-06-30 04:18:54","Mau lihat daftar beasiswa lainnya dong",3.129,OK
+"2026-06-30 04:20:18",next,4.418,OK
+"2026-06-30 04:20:37","no 20",3.421,OK
+"2026-06-30 04:49:17","Ada beasiswa S1 ln?",6.435,OK
+"2026-06-30 04:49:28","Saya mau kuliah di Jepang pakai beasiswa penuh",4.962,OK
+"2026-06-30 04:49:42","Beasiswa tanpa IELTS ada?",6.009,OK
+"2026-06-30 04:49:54",next,2.082,OK
+"2026-06-30 04:50:07","yang masih buka",6.012,OK
+"2026-06-30 04:50:17","no 4",2.636,OK
+"2026-06-30 04:50:26","beasiswa tersebut tanpa ielts?",2.355,OK
+"2026-06-30 04:50:35","Halo, selamat pagi kak mau tanya",2.118,OK
+"2026-06-30 04:50:57","Cari beasiswa S1 luar negeri tanpa batasan umur",6.218,OK
+"2026-06-30 04:51:10","Tolong jelaskan apa saja benefit beasiswa nomor 3",4.081,OK
+"2026-06-30 04:51:23","Bagaimana cara mendaftar beasiswa tersebut?",2.666,OK
+"2026-06-30 04:51:29","Apakah beasiswa nomor 1 berlokasi di Jepang?",2.157,OK
+"2026-06-30 04:51:37","Ada syarat minimal IPK ga untuk beasiswa ini?",2.187,OK
+"2026-06-30 04:51:57","Terima kasih banyak ya bantuannya",2.148,OK
+"2026-06-30 04:52:05","Saya berumur 30 tahun, ada beasiswa S3?",5.585,OK
+"2026-06-30 04:52:20","yang masih buka",5.941,OK
+"2026-06-30 04:52:25","no 1",2.388,OK
+"2026-06-30 04:52:33","ada batasan usia ngga?",2.331,OK
+"2026-06-30 04:52:42",syarat,4.13,OK
+"2026-06-30 04:52:48","Oke, saya paham kak",2.114,OK
+"2026-06-30 04:53:02","Beasiswa S2 IT di negara Jerman",6.556,OK
+"2026-06-30 04:53:12","no 1",2.684,OK
+"2026-06-30 04:56:24","Beasiswa S2 IT di negara Jerman",6.57,OK
+"2026-06-30 04:57:10","Beasiswa S2 IT di negara Jerman",5.34,OK
+"2026-06-30 04:58:46","Beasiswa S2 IT di negara Jerman",5.543,OK
+"2026-07-01 01:58:20","Cari beasiswa S2 yang deadline-nya bulan depan",9.78,OK
+"2026-07-01 01:59:07","Beasiswa yang minta skor TOEFL minimal 500",5.64,OK
+"2026-07-01 01:59:19","no 5",2.196,OK
+"2026-07-01 01:59:31","skor toefl nya harus berapa",2.195,OK
+"2026-07-01 02:01:31","skor toefl nya harus berapa",4.804,OK
+"2026-07-01 02:01:35","butuh toefl berapa",3.841,OK
+"2026-07-01 02:01:39","minimal ielts berapa",4.301,OK
+"2026-07-01 02:03:08","Apakah beasiswa ini wajib punya surat rekomendasi?",1.921,OK
+"2026-07-01 02:03:13","skor toefl nya harus berapa",3.434,OK
+"2026-07-01 02:03:45","skor toefl nya harus berapa",3.849,OK
+"2026-07-01 02:04:17","Kapan deadline pendaftaran beasiswa nomor 4?",2.885,OK
+"2026-07-01 02:04:32","Kasih tau link resmi website beasiswa ini dong",2.314,OK
+"2026-07-01 02:04:44","Apakah beasiswa nomor 2 ini tipenya fully funded?",3.381,OK
+"2026-07-01 02:05:20","berikan beasiswa sarjana di jepang yang masih buka",7.518,OK
+"2026-07-01 02:05:30","no 1",2.55,OK
+"2026-07-01 02:05:41","Ada syarat bahasa Jepang ga?",2.535,OK
+"2026-07-01 02:05:52",syarat,4.283,OK
+"2026-07-01 02:06:20","Ada syarat harus bisa bahasa Jepang ga?",2.261,OK
+"2026-07-01 02:06:29",syarat,4.315,OK
+"2026-07-01 02:07:48","Apakah beasiswa ini wajib punya surat rekomendasi?",2.359,OK
+"2026-07-01 02:07:52","skor toefl nya harus berapa",3.468,OK
+"2026-07-01 02:08:10","Ada syarat harus bisa bahasa Jepang ga?",6.285,OK
+"2026-07-01 02:08:41","Ada syarat harus bisa bahasa Jepang ga?",2.047,OK
+"2026-07-01 02:09:43","Ada syarat harus bisa bahasa Jepang ga?",2.291,OK
+"2026-07-01 02:09:52","Apakah beasiswa ini wajib punya surat rekomendasi?",2.102,OK
+"2026-07-01 02:09:56","skor toefl nya harus berapa",3.632,OK
+"2026-07-01 02:10:08",kembali,3.486,OK
+"2026-07-01 02:10:39","no 1",3.795,OK
+"2026-07-01 02:10:49","Ada syarat harus bisa bahasa Jepang ga?",4.284,OK
+"2026-07-01 02:12:08","Ada syarat harus bisa bahasa Jepang ga?",2.204,OK
+"2026-07-01 02:12:31","Apakah beasiswa ini wajib punya surat rekomendasi?",2.587,OK
+"2026-07-01 02:12:35","skor toefl nya harus berapa",4.597,OK
+"2026-07-01 02:13:33","Ada syarat harus bisa bahasa Jepang ga?",4.33,OK
+"2026-07-01 02:14:46","berikan beasiswa di jepang",12.032,OK
+"2026-07-01 02:15:13","no 3",3.72,OK
+"2026-07-01 02:15:23","Ada syarat harus bisa bahasa Jepang ga?",4.116,OK
+"2026-07-01 02:15:37",syarat,6.424,OK
+"2026-07-01 02:16:36","carikan beasiswa di jepang",9.761,OK
+"2026-07-01 02:16:42","Ada syarat harus bisa bahasa Jepang ga?",2.225,OK
+"2026-07-01 02:16:53","no 1",5.095,OK
+"2026-07-01 02:17:02","Apakah beasiswa ini wajib punya surat rekomendasi?",2.836,OK
+"2026-07-01 02:17:06","Ada syarat harus bisa bahasa Jepang ga?",4.433,OK
+"2026-07-01 02:17:12","skor toefl nya harus berapa",9.369,OK
+"2026-07-01 02:17:55","carikan beasiswa di jepang yang pf",10.304,OK
+"2026-07-01 02:18:15","no 3",3.394,OK
+"2026-07-01 02:18:32","Ada syarat harus bisa bahasa Jepang ga?",3.837,OK
+"2026-07-01 02:19:19","Beasiswa yang mewajibkan dokumen paspor",10.378,OK
+"2026-07-01 02:20:48","no 1",4.157,OK
+"2026-07-01 02:21:16","beasiswa tersebut mewajibkan dokumen paspor?",3.992,OK
+"2026-07-01 02:21:30",syarat,7.337,OK
+"2026-07-01 02:21:42",kembali,3.292,OK
+"2026-07-01 02:22:02","no 4",3.663,OK
+"2026-07-01 02:22:20","beasiswa tersebut mewajibkan paspor ngga?",3.52,OK
+"2026-07-01 02:22:37",syarat,9.864,OK
+"2026-07-01 02:23:11",kembali,4.316,OK
+"2026-07-01 02:23:23","no 5",3.803,OK
+"2026-07-01 02:23:40","beasiswa tersebut mewajibkan paspor kah?",3.958,OK
+"2026-07-01 02:24:03",syarat,7.19,OK
+"2026-07-01 02:25:43","Tampilkan beasiswa luar negeri yang masih buka",10.163,OK
+"2026-07-01 02:26:19","Urutkan beasiswa S2 berdasarkan deadline terdekat",10.298,OK
+"2026-07-01 02:26:37","Beasiswa pertukaran pelajar (exchange) di Korea",10.016,OK
+"2026-07-01 02:27:38","Rekomendasi beasiswa S1 dengan IPK minimal 3.25",10.631,OK
+"2026-07-01 02:27:53","no 1",4.565,OK
+"2026-07-01 02:28:07","ipk nya harus berapa?",8.084,OK
+"2026-07-01 02:31:15","Rekomendasi beasiswa S1 dengan IPK minimal 3.25",6.224,OK
+"2026-07-01 02:31:31","Apakah beasiswa ini wajib punya surat rekomendasi?",2.409,OK
+"2026-07-01 02:31:35","skor toefl nya harus berapa",3.893,OK
+"2026-07-01 02:32:33","ipk nya harus berapa?",6.016,OK
+"2026-07-01 02:34:57","Rekomendasi beasiswa S1 dengan IPK minimal 3.25",11.757,OK
+"2026-07-01 02:35:14","no 1",4.321,OK
+"2026-07-01 02:35:56","ipk nya harus berapa?",8.078,OK
+"2026-07-01 02:35:58","emang berapa syarat ipknya?",4.346,OK
+"2026-07-01 02:36:03","butuh ipk berapa",4.582,OK
+"2026-07-01 02:36:06","apakah ada syarat IPK?",3.338,OK
+"2026-07-01 02:37:30","Ada beasiswa UGM untuk tahun 2026?",4.138,OK
+"2026-07-01 02:39:48","Tampilkan beasiswa di benua Asia untuk S2",9.197,OK
+"2026-07-01 02:40:05","Siapa pencipta lagu Indonesia Raya?",4.481,OK
+"2026-07-01 02:40:35","Assalamualaikum, mau tanya-tanya tentang beasiswa",3.287,OK
+"2026-07-01 02:41:02","Tampilkan dong beasiswa S2 yang tanpa syarat berkas ijazah",11.469,OK
+"2026-07-01 02:41:35","no 1",4.569,OK
+"2026-07-01 02:41:54","tanpa syarat berkas ijazah?",10.985,OK
+"2026-07-01 02:42:40","Tolong carikan beasiswa S1 dengan syarat wajib bisa bahasa Arab",9.678,OK
+"2026-07-01 02:42:54","no 2",4.106,OK
+"2026-07-01 02:43:06","wajib bisa bahasa arab?",3.405,OK
+"2026-07-01 02:43:20",syarat,7.73,OK
+"2026-07-01 02:44:05","Carikan beasiswa yang menanggung biaya tiket pesawat",8.875,OK
+"2026-07-01 02:44:45","no 1",4.746,OK
+"2026-07-01 02:45:07","biaya tiket pesawat dibayarin?",4.712,OK
+"2026-07-01 02:46:48",kembali,3.903,OK
+"2026-07-01 02:47:02","nno 2",3.812,OK
+"2026-07-01 02:47:18","biaya tiket pesawat ditanggung?",3.62,OK
+"2026-07-01 02:47:29",kembali,3.619,OK
+"2026-07-01 02:47:38","Mau lihat daftar beasiswa lainnya dong",4.176,OK
+"2026-07-01 02:47:53","Oke siap kak makasih infonya",3.814,OK
+"2026-07-01 02:48:07","Berapa suhu di kota Jakarta hari ini?",3.145,OK
+"2026-07-01 02:48:33","Beasiswa S1 dalam negeri untuk tahun 2025",7.919,OK
+"2026-07-01 02:49:39","Cari beasiswa S1 di benua Australia",8.333,OK
+"2026-07-01 02:49:55","Beasiswa S3 selain yang bertipe partially funded",8.695,OK
+"2026-07-01 02:50:08","no 5",3.736,OK
+"2026-07-01 02:50:19","Syarat pendaftaran beasiswa yang sedang saya pilih apa saja?",6.932,OK
+"2026-07-01 02:52:25","Tolong tampilkan beasiswa S2 dengan syarat HSK",10.141,OK
+"2026-07-01 02:53:58","no 1",5.6,OK
+"2026-07-01 02:54:14","wajib sertifikat HSK?",4.223,OK
+"2026-07-01 02:54:30",syarat,5.743,OK
+"2026-07-01 02:54:41",kembali,3.923,OK
+"2026-07-01 02:54:54","no 2",3.916,OK
+"2026-07-01 02:55:06","harus sertifikat HSK?",4.13,OK
+"2026-07-01 02:55:19",syarat,6.819,OK
+"2026-07-01 02:55:50","carikan beasiswa sertifikat jepang (JLPT)",8.262,OK
+"2026-07-01 02:56:00","no 1",3.886,OK
+"2026-07-01 02:56:20","harus sertifikat JLPT?",4.536,OK
+"2026-07-01 02:56:34",syarat,6.254,OK
+"2026-07-01 02:57:10","Tolong tampilkan beasiswa S2 dengan syarat Sertifikat Jepang (JLPT)",11.362,OK
+"2026-07-01 02:57:28","no 2",6.596,OK
+"2026-07-01 02:57:42","harus mencantumkan sertifikat JLPT?",4.152,OK
+"2026-07-01 02:58:30","Tolong carikan beasiswa S2 dengan syarat Sertifikat arab",10.896,OK
+"2026-07-01 02:58:52","no 1",5.449,OK
+"2026-07-01 02:59:04","harus ada sertifikat arab?",4.586,OK
+"2026-07-01 02:59:19",syarat,7.92,OK
+"2026-07-01 03:02:33","berikan Beasiswa S2 full gratis di benua Eropa yang masih buka",12.83,OK
+"2026-07-01 03:04:06","Beasiswa S1 luar negeri benua asia selain ke negara Malaysia",8.801,OK
+"2026-07-01 03:05:15","Apakah beasiswa nomor 1 ini ada batas umur maksimal?",5.871,OK
+"2026-07-01 03:06:23","Tunjangannya apa saja ya untuk beasiswa ini?",6.201,OK
+"2026-07-01 03:06:52","Tampilkan beasiswa yang tutup sampai akhir tahun 2026",8.468,OK
+"2026-07-01 03:08:05","Minta link website beasiswanya dong",9.015,OK
+"2026-07-01 03:08:34","Tampilkan beasiswa yang tutup sampai akhir tahun 2026",10.549,OK
+"2026-07-01 03:08:44","no 5",4.031,OK
+"2026-07-01 03:09:00","Minta link website beasiswanya dong",3.752,OK
+"2026-07-01 03:10:29","Berikan rekomendasi beasiswa kuliah tanpa proses wawancara",10.825,OK
+"2026-07-01 03:10:56","no 1",3.834,OK
+"2026-07-01 03:11:11","beasiswa tanpa proses wawancara kan?",4.606,OK
+"2026-07-01 03:11:22",kembali,4.147,OK
+"2026-07-01 03:11:44","no 5",3.837,OK
+"2026-07-01 03:12:03","beasiswa ini tanpa proses wawancara kan?",3.662,OK
+"2026-07-01 03:16:30","Tampilkan beasiswa yang tutup hari Selasa minggu depan",13.78,OK
+"2026-07-01 03:21:35","Carikan beasiswa S1 yang syarat nilai UTBK-nya minimal 650",12.975,OK
+"2026-07-01 03:23:12","coba Carikan beasiswa S1 yang syarat nilai UTBK-nya minimal 650""",10.449,OK
+"2026-07-01 03:23:25","no 1",3.871,OK
+"2026-07-01 03:23:39","syarat nilai berapa",8.153,OK
+"2026-07-01 03:26:02","apakah ada syarat UTBK?",2.868,OK
+"2026-07-01 03:26:06","berapa syarat minimal nilai UTBK-nya?",4.14,OK
+"2026-07-01 03:26:59","tolong carikan beasiswa S1 yang syarat nilai UTBK-nya minimal 650""",10.636,OK
+"2026-07-02 01:51:30","Saya memiliki IPK 3,50 dan ingin beasiswa S2 fully funded di Australia yang masih buka",10.964,OK
+"2026-07-02 01:51:52","no 1",2.685,OK
+"2026-07-02 01:52:05","ipk nya harus berapa?",4.098,OK
+"2026-07-02 01:52:33","carikan beasiswa yang ipk 3,50 yang masih buka",7.089,OK
+"2026-07-02 01:52:41","no 1",2.449,OK
+"2026-07-02 01:52:53","ipk beasiswa itu harus berapa?",5.03,OK
+"2026-07-02 01:53:51","""Saya memiliki IPK 3,50 dan ingin beasiswa S1 partially funded di Taiwan yang masih buka.""",7.799,OK
+"2026-07-02 01:54:22","syarat ipk beasiswa no 2 berapa",4.333,OK
+"2026-07-02 01:54:36","""Saya memiliki IPK 3,50 dan ingin beasiswa S1 partially funded di Taiwan yang masih buka.""",7.061,OK
+"2026-07-02 01:54:56","syarat ipk beasiswa no 2 berapa",4.169,OK
+"2026-07-13 01:18:01","mau beasiswa s1 jepang dong yang masih buka",59.786,OK
+"2026-07-13 01:19:29","beasiswa ff di indonesia yang belum tutup",9.413,OK
+"2026-07-18 06:55:36","Halo, selamat siang kak mau tanya",5.955,OK
+"2026-07-18 06:55:54","Ada beasiswa S1 ln?",13.18,OK
+"2026-07-18 06:56:22","Saya mau kuliah di Jepang pakai beasiswa penuh",9.26,OK
+"2026-07-18 06:56:40","Beasiswa tanpa IELTS ada?",8.173,OK
+"2026-07-18 06:57:06",selanjutnya,4.629,OK
+"2026-07-18 06:57:35","no 10",4.619,OK
+"2026-07-18 06:58:00","beasiswa tersebut tanpa ielts",10.216,OK
+"2026-07-18 06:58:27","Beasiswa tanpa IELTS ada?",9.155,OK
+"2026-07-18 06:58:43",next,3.089,OK
+"2026-07-18 06:59:27","no 9",5.053,OK
+"2026-07-18 06:59:40","apakah beasiswa tersebut tanpa IELTS?",2.993,OK
+"2026-07-18 07:00:01","Tolong jelaskan apa saja benefit beasiswa nomor 3",4.471,OK
+"2026-07-18 07:00:26","Bagaimana cara mendaftar beasiswa tersebut?",4.669,OK
+"2026-07-18 07:01:04","Apakah beasiswa nomor 1 berlokasi di Jepang?",3.432,OK
+"2026-07-18 07:01:27","Ada syarat minimal IPK ga untuk beasiswa ini?",3.293,OK
+"2026-07-18 07:01:43","Cara membuat nasi goreng Aceh bagaimana ya?",3.25,OK
+"2026-07-18 07:01:59","Terima kasih banyak ya bantuannya",3.098,OK
+"2026-07-18 07:02:53","Beasiswa S2 IT di negara Jerman",36.939,OK
+"2026-07-18 07:03:08","no 4",4.416,OK
+"2026-07-18 07:03:52","Saya berumur 30 tahun, ada beasiswa S3?",20.992,OK
+"2026-07-18 07:04:37",next,3.401,OK
+"2026-07-18 07:05:01",selanjutnya,4.033,OK
+"2026-07-18 07:05:31","no 12",2.926,OK
+"2026-07-18 07:05:57","apakah beasiswa tersebut bisa untuk umur 30 tahun?",3.373,OK
+"2026-07-18 07:06:22","Oke, saya paham kak",4.174,OK
+"2026-07-18 07:07:16","Cari beasiswa S1 luar negeri tanpa batasan umur",8.427,OK
+"2026-07-18 07:07:54",next,2.933,OK
+"2026-07-18 07:08:35","no 10",2.969,OK
+"2026-07-18 07:08:47","beasiswa tersebut tanpa batasan umur?",3.029,OK
+"2026-07-18 07:09:17","Tampilkan beasiswa S3 selain di negara Amerika",9.055,OK
+"2026-07-18 07:09:37","no 2",4.663,OK
+"2026-07-18 07:12:27","berikan beasiswa s3",56.201,OK
+"2026-07-18 07:12:48","Tampilkan beasiswa S3 selain di negara Amerika",8.467,OK
+"2026-07-18 07:13:29","Cari beasiswa S2 yang deadline-nya bulan depan",8.041,OK
+"2026-07-18 07:14:02","Beasiswa yang minta skor TOEFL minimal 500",8.882,OK
+"2026-07-18 07:14:19",no2,2.828,OK
+"2026-07-18 07:14:38","apakah benar beasisswa tersebut minimal skor toefl 500?",2.907,OK
+"2026-07-18 07:15:37","Kapan deadline pendaftaran beasiswa nomor 4?",3.101,OK
+"2026-07-18 07:15:55","Kasih tau link resmi website beasiswa ini dong",2.96,OK
+"2026-07-18 07:16:08","Apakah beasiswa nomor 2 ini tipenya fully funded?",3.031,OK
+"2026-07-18 07:16:44","Ada syarat harus bisa bahasa Jepang ga?",3.039,OK
+"2026-07-18 07:17:05","Beasiswa yang mewajibkan dokumen paspor",10.186,OK
+"2026-07-18 07:17:49","no 5",3.956,OK
+"2026-07-18 07:18:15","apakah beasiswa tersebut mewajibkan dokumen paspor?",2.945,OK
+"2026-07-18 07:18:49","Tampilkan beasiswa luar negeri yang masih buka",8.348,OK
+"2026-07-18 07:19:15","Urutkan beasiswa S2 berdasarkan deadline terdekat",12.362,OK
+"2026-07-18 07:19:54","Beasiswa pertukaran pelajar (exchange) di Korea",15.694,OK
+"2026-07-18 07:27:25","Rekomendasi beasiswa S1 dengan IPK minimal 3.25",9.412,OK
+"2026-07-18 07:28:20",selanjutnya,4.603,OK
+"2026-07-18 07:29:05","no 10",3.033,OK
+"2026-07-18 07:29:26","ipk beasiswa tersebut harus minimal berapa?",7.276,OK
+"2026-07-18 07:30:14","Ada beasiswa UGM untuk tahun 2026?",4.53,OK
+"2026-07-18 07:30:40","Tampilkan beasiswa di benua Asia untuk S2",10.703,OK
+"2026-07-18 07:35:55","Carikan beasiswa S1 di Universitas Indonesia",3.535,OK
+"2026-07-18 07:37:49","Beasiswa S3 selain yang bertipe Partially Funded",10.265,OK
+"2026-07-18 07:38:27","Bandingkan beasiswa nomor 1 dengan nomor 3, bagusan mana?",10.758,OK
+"2026-07-18 07:40:16","Cari beasiswa S1 yang syarat nilai UTBK-nya minimal 650",11.164,OK
+"2026-07-18 07:40:27","no 1",3.117,OK
+"2026-07-18 07:41:07","apakah beasiswa ini mempunyai syarat nilai utbk?",9.266,OK
+"2026-07-18 07:42:44","Beasiswa S3 selain yang bertipe Partially Funded",8.67,OK
+"2026-07-18 07:44:01","no 2",3.264,OK
+"2026-07-18 07:44:09","Apakah beasiswa ini wajib punya surat rekomendasi?",3.038,OK
+"2026-07-18 08:07:07","Menurut kamu, peluang saya lolos beasiswa LPDP besar nggak ya kalau IPK saya cuma 3.01 dan belum punya pengalaman kerja?",3.602,OK
+"2026-07-18 08:09:04","Menurut kamu, peluang saya lolos beasiswa LPDP besar nggak ya kalau IPK saya cuma 3.01 dan belum punya pengalaman kerja?",4.071,OK
+"2026-07-18 08:09:52","Coba tampilkan beasiswa S2 di Eropa yang uang saku bulanannya (living cost) lebih besar daripada beasiswa AAS di Australia.",5.978,OK
+"2026-07-18 08:11:43","Apakah ada beasiswa S1 luar negeri yang memperbolehkan pendaftarnya sudah berstatus menikah atau sedang hamil?",7.333,OK
+"2026-07-18 08:11:59","no 1",2.139,OK
+"2026-07-18 08:12:26","apakah beasiswa ini memperbolehkan pendafatarannya untuk yang sedang hamil atau sudah menikah?",2.279,OK
+"2026-07-18 08:13:05",syarat,4.011,OK
+"2026-07-18 08:19:23","Apakah ada beasiswa S1 luar negeri yang memperbolehkan pendaftarnya sudah berstatus menikah atau sedang hamil?",10.026,OK
+"2026-07-18 08:19:57","no 1",2.337,OK
+"2026-07-18 09:07:00","Menurut kamu, peluang saya lolos beasiswa LPDP besar nggak ya kalau IPK saya cuma 3.01 dan belum punya pengalaman kerja?",4.193,OK
+"2026-07-30 14:10:46","halo scholarobt",8.546,OK
+"2026-07-30 14:22:50","Cari beasiswa S1 luar negeri tanpa batasan umur",18.96,OK
+"2026-07-30 14:23:51","yang belum tutup dong",41.323,OK
+"2026-07-30 14:24:30","no 2",13.313,OK
+"2026-07-30 14:25:13","apakah ada batasan usia?",3.625,OK
+"2026-07-30 14:25:42","Beasiswa yang minta skor TOEFL minimal 500",13.635,OK
+"2026-07-30 14:27:07","tapi yang masih buka ada ngga",27.295,OK
+"2026-07-30 14:27:23","no 3",4.309,OK
+"2026-07-30 14:30:34","Tampilkan beasiswa luar negeri yang masih buka",46.28,OK
+"2026-07-30 14:32:51","Ada beasiswa S1 ln?",14.504,OK
+"2026-07-30 14:33:48",selanjutnya,28.496,OK
+"2026-07-30 14:36:56","assalamualaikum bro",3.798,OK
+"2026-07-30 14:37:30","Ada beasiswa S1 ln?",19.715,OK
+"2026-07-30 14:37:51","ada yang lain ngga?",4.056,OK
+"2026-07-30 14:38:44","kalo yang masi buka ada ngga",20.909,OK
+"2026-07-30 14:39:10","no 2",15.78,OK
+"2026-07-30 14:39:45","syaratnya dong",5.33,OK
+"2026-07-30 14:40:10",benefitnya,13.17,OK
+"2026-07-30 14:40:39","ada link daftarnya ngga?",20.252,OK
+"2026-07-30 14:41:20","terima kasih ya",8.76,OK
+"2026-07-30 14:41:30","Saya mau kuliah di Jepang pakai beasiswa penuh",6.579,OK
+"2026-07-30 14:42:01","no 2",2.682,OK
+"2026-07-30 14:42:40","Beasiswa tanpa IELTS ada?",25.486,OK
+"2026-07-30 14:43:05","no 4",2.518,OK
+"2026-07-30 14:43:32","beasiswa tersebut tanpa ielts?",16.342,OK
+"2026-07-30 14:44:31","Bagaimana cara mendaftar beasiswa tersebut?",20.967,OK
+"2026-07-30 14:54:36","Cari beasiswa S2 yang deadline-nya bulan depan",11.223,OK
+"2026-07-30 14:55:38","Apakah beasiswa nomor 2 ini tipenya fully funded?",7.899,OK
+"2026-07-30 14:56:27","Apakah beasiswa tersebut mewajibkan dokumen paspor?",3.855,OK
+"2026-07-30 14:56:42",syarat,8.717,OK
+"2026-07-30 15:17:02","Cari beasiswa S2 yang deadline-nya bulan depan",22.363,OK
+"2026-07-30 15:18:31",next,5.273,OK
+"2026-07-31 04:43:49","Saya ingin beasiswa S2 Fully Funded di Jepang yang masih buka.",10.928,OK
+"2026-07-31 04:48:03","Cari beasiswa S1 di benua Australia yang partial",6.731,OK
+"2026-07-31 05:10:59","no 2",2.183,OK
+"2026-07-31 05:11:16",syarat,10.163,OK
+"2026-07-31 05:11:40",kembali,3.716,OK
+"2026-07-31 05:12:57","no 5",14.766,OK
+"2026-07-31 05:13:06",syarat,5.077,OK
+"2026-07-31 05:15:05",kembali,2.404,OK
+"2026-07-31 05:15:15","no 1",3.824,OK
+"2026-07-31 05:15:24",syarat,3.863,OK
+"2026-07-31 05:15:45","Cari beasiswa S1 di benua Australia yang partial",9.287,OK
+"2026-07-31 05:15:50",next,2.153,OK
+"2026-07-31 05:16:18",next,2.597,OK
+"2026-07-31 05:16:28","no 10",3.795,OK
+"2026-07-31 05:16:51",syarat,19.408,OK
+"2026-07-31 05:17:29",kembali,3.227,OK
+"2026-07-31 05:17:37","no 11",2.151,OK
+"2026-07-31 05:18:02",syarat,5.076,OK
+"2026-07-31 05:19:46",kembali,3.911,OK
+"2026-07-31 05:19:52","no 14",3.016,OK
+"2026-07-31 05:20:05",syrat,7.286,OK
+"2026-07-31 05:20:28","University Of Auckland Asean High Achievers Scholarsip",2.595,OK
+"2026-07-31 05:20:49","Cari beasiswa S1 di benua Australia yang partial",8.322,OK
+"2026-07-31 05:20:57",next,3.699,OK
+"2026-07-31 05:21:05",next,3.549,OK
+"2026-07-31 05:21:17",next,2.062,OK
+"2026-07-31 05:21:27",selanjutnya,3.422,OK
+"2026-07-31 05:21:34",selanjutnya,2.097,OK
+"2026-07-31 05:21:46",next,3.423,OK
+"2026-07-31 05:21:53",next,2.152,OK
+"2026-07-31 05:22:22","no 20",3.861,OK
+"2026-07-31 05:22:47","no 13",2.483,OK
+"2026-07-31 05:22:57",syarat,4.232,OK
+"2026-07-31 05:25:00",kembali,2.426,OK
+"2026-07-31 05:25:07","no 14",3.861,OK
+"2026-07-31 05:25:18",syarat,7.702,OK
+"2026-07-31 05:26:38","carikan beasiswa s2 di belgia",7.557,OK
+"2026-07-31 05:27:28",next,2.198,OK
+"2026-07-31 05:28:02",next,3.671,OK
+"2026-07-31 05:29:06",selanjutnya,3.829,OK
+"2026-07-31 05:29:20",next,2.286,OK
+"2026-07-31 05:29:49",selanjutnya,2.563,OK
+"2026-07-31 05:30:12",next,8.905,OK
+"2026-07-31 05:30:33",selanjutnya,3.248,OK
+"2026-07-31 05:30:56","no 36",3.528,OK
+"2026-07-31 05:31:06",syarat,7.029,OK
+"2026-07-31 05:31:23","carikan beasiswa s1 di indonesia yang masih buka",7.112,OK
+"2026-07-31 05:31:41","no 5",2.201,OK
+"2026-07-31 05:31:48",syarat,3.769,OK
+"2026-07-31 05:37:05","carikan beasiswa s1 yang masih buka di indonesai",6.866,OK
+"2026-07-31 05:37:47","no 5",2.105,OK
+"2026-07-31 05:40:09",syarat,5.809,OK
+"2026-07-31 05:41:41","berikan beasiswa s1 di benua australia",8.04,OK
+"2026-07-31 05:42:02",selanjtnya,2.398,OK
+"2026-07-31 05:42:18",next,2.435,OK
+"2026-07-31 05:42:29",next,3.927,OK
+"2026-07-31 05:43:04",next,2.596,OK
+"2026-07-31 05:43:15","no 21",2.444,OK
+"2026-07-31 05:43:23",syarat,5.287,OK
+"2026-07-31 05:44:02",kembali,2.321,OK
+"2026-07-31 05:44:21","no 24",4.009,OK
+"2026-07-31 05:44:29",syarat,4.403,OK
+"2026-08-03 03:07:49",hai,5.144,OK
+"2026-08-03 03:08:00","Ada beasiswa S1 ln?",6.411,OK
+"2026-08-03 03:08:22","Tolong tampilkan halaman berikutnya",2.12,OK
+"2026-08-03 03:08:37","Tolong jelaskan apa saja benefit beasiswa nomor 3",3.969,OK
+"2026-08-03 03:08:51","Saya mau kuliah di Jepang pakai beasiswa penuh",6.394,OK
+"2026-08-03 03:09:27","Bagaimana cara mendaftar beasiswa tersebut?",7.474,OK
+"2026-08-03 03:09:56","Saya mau kuliah di Jepang pakai beasiswa penuh",5.93,OK
+"2026-08-03 03:10:05","Tolong jelaskan apa saja benefit beasiswa nomor 3",4.069,OK
+"2026-08-03 03:10:15","Bagaimana cara mendaftar beasiswa tersebut?",2.514,OK
+"2026-08-03 03:10:38","Apakah beasiswa nomor 1 berlokasi di Jepang?",6.395,OK
+"2026-08-03 03:10:49","Apakah beasiswa nomor 1 berlokasi di Jepang?",2.739,OK
+"2026-08-03 03:11:29","Beasiswa tanpa IELTS ada?",6.634,OK
+"2026-08-03 03:12:08","no 2",2.558,OK
+"2026-08-03 03:12:25","apakah beasiswa tersebut tanpa ada ielts?",2.173,OK
+"2026-08-03 03:17:52","apakah beasiswa tersebut tanpa ada ielts?",3.191,OK
+"2026-08-03 03:18:10","Beasiswa tanpa IELTS ada?",6.532,OK
+"2026-08-03 03:18:20","Tolong tampilkan halaman berikutnya",2.393,OK
+"2026-08-03 03:18:26","Tolong jelaskan apa saja benefit beasiswa nomor 3",3.23,OK
+"2026-08-03 03:18:41","apakah beasiswa tersebut tidak ada syarat ietls?",2.439,OK
+"2026-08-03 03:20:26","apakah beasiswa tersebut tidak ada syarat ietls?",2.891,OK
+"2026-08-03 03:20:45","Beasiswa tanpa IELTS ada?",6.66,OK
+"2026-08-03 03:21:25","tampilkan selanjtnya",2.207,OK
+"2026-08-03 03:21:47","Tolong jelaskan apa saja benefit beasiswa nomor 6",5.095,OK
+"2026-08-03 03:21:56","beasiswa terebut tanpa ietls?",2.177,OK
+"2026-08-03 03:23:22","beasiswa terebut tanpa ietls?",2.588,OK
+"2026-08-03 03:23:37","Beasiswa tanpa IELTS ada?",6.085,OK
+"2026-08-03 03:23:48",selanjutnya,2.161,OK
+"2026-08-03 03:24:00","no 9",2.927,OK
+"2026-08-03 03:24:12","beasiswa itu gada syarat ietlsnya?",2.208,OK
+"2026-08-03 03:24:32",syarat,3.921,OK
+"2026-08-03 03:24:47","Apakah beasiswa nomor 1 berlokasi di Jepang?",3.798,OK
+"2026-08-03 03:25:15","Ada syarat minimal IPK ga untuk beasiswa ini?",2.269,OK
+"2026-08-03 03:25:41","Cara membuat nasi goreng Aceh bagaimana ya?",2.251,OK
+"2026-08-03 03:25:53","cara membuat nasi lemak malaysia gimana ya",2.198,OK
+"2026-08-03 03:26:35","Beasiswa tanpa IELTS ada?",6.238,OK
+"2026-08-03 03:26:55","Kapan deadline pendaftaran beasiswa nomor 5?",2.094,OK
+"2026-08-03 03:27:18","beasiswa tersebut ada syarat ielts ngga?",2.213,OK
+"2026-08-03 03:27:30",syarat,4.119,OK
+"2026-08-03 03:27:38","Beasiswa tanpa IELTS ada?",6.433,OK
+"2026-08-03 03:28:48","no 4",2.29,OK
+"2026-08-03 03:29:05","beasiswa tersbut tanpa ielts?",3.258,OK
+"2026-08-03 03:29:36","beasiswa no 3",2.694,OK
+"2026-08-03 03:29:55","apakah beasiswa tersebut benar tanpa ielts?",2.334,OK
+"2026-08-03 03:30:17","Apakah beasiswa nomor 1 berlokasi di Jepang?",2.236,OK
+"2026-08-03 03:30:30","Ada syarat minimal IPK ga untuk beasiswa ini?",3.463,OK
+"2026-08-03 03:30:45","Terima kasih banyak ya bantuannya",2.875,OK
+"2026-08-03 03:31:06","Beasiswa S2 IT di negara Jerman",6.242,OK
+"2026-08-03 03:31:43",lanjut,2.14,OK
+"2026-08-03 03:31:53","no 6",2.309,OK
+"2026-08-03 03:32:13","Saya berumur 30 tahun, ada beasiswa S3?",7.247,OK
+"2026-08-03 03:32:35","no 2",3.184,OK
+"2026-08-03 03:32:46","ada syarat umur ngga?",2.671,OK
+"2026-08-03 03:34:48",syarat,4.437,OK
+"2026-08-03 03:37:02","Oke, saya paham kak",2.531,OK
+"2026-08-03 03:37:14","Cari beasiswa S1 luar negeri tanpa batasan umur",8.622,OK
+"2026-08-03 03:38:24","no 3",2.682,OK
+"2026-08-03 03:38:38","apkah beasiswa tersebut tannpa batasan umur?",2.16,OK
+"2026-08-03 03:38:56","bagaimana cara mendaftar beasiswa tersebut",2.192,OK
+"2026-08-03 03:39:11",kembali,2.348,OK
+"2026-08-03 03:39:43","no 1",2.412,OK
+"2026-08-03 03:40:07","benarkah beasiswa terseut tidak ada batasan usia?",2.785,OK
+"2026-08-03 03:42:04","Tampilkan beasiswa S3 selain di negara Amerika",7.578,OK
+"2026-08-03 03:44:51",next,2.511,OK
+"2026-08-03 03:46:12","Cari beasiswa S2 yang deadline-nya bulan depan",7.767,OK
+"2026-08-03 03:46:42","Cari beasiswa S1 yang deadline-nya bulan ini",8.813,OK
+"2026-08-03 03:47:05","Beasiswa yang minta skor TOEFL minimal 500",6.817,OK
+"2026-08-03 03:47:18","no 1",2.424,OK
+"2026-08-03 03:47:35","beasiswa tersebut skor toefl minimal 500?",2.253,OK
+"2026-08-03 03:50:25","Kapan deadline pendaftaran beasiswa nomor 4?",2.323,OK
+"2026-08-03 03:51:02","Kasih tau link resmi website beasiswa ini dong",2.457,OK
+"2026-08-03 03:51:12","Apakah beasiswa nomor 2 ini tipenya fully funded?",2.571,OK
+"2026-08-03 03:52:02","Ada syarat harus bisa bahasa Jepang ga?",2.141,OK
+"2026-08-03 03:53:34","Apakah beasiswa tersebut mewajibkan dokumen paspor?",2.324,OK
+"2026-08-03 03:54:26",syarat,5,OK
+"2026-08-03 03:59:54","Tampilkan beasiswa luar negeri yang masih buka",10.946,OK
+"2026-08-03 04:00:51","Urutkan beasiswa S2 berdasarkan deadline terdekat",10.948,OK
+"2026-08-03 04:01:11","Beasiswa pertukaran pelajar (exchange) di Korea",8.788,OK
+"2026-08-03 04:01:50","Rekomendasi beasiswa S1 dengan IPK minimal 3.25",10.846,OK
+"2026-08-03 04:02:05","no 2",3.596,OK
+"2026-08-03 04:03:13","apakah beasiswa tersebut betul min ipk nya 3.25?",4.904,OK
+"2026-08-03 04:11:41","apakah beasiswa tersebut betul min ipk nya 3.25?",4.927,OK
+"2026-08-03 04:12:47","Rekomendasi beasiswa S1 dengan IPK minimal 3.25",11.916,OK
+"2026-08-03 04:13:22","no 4",3.234,OK
+"2026-08-03 04:13:42","beasiswa tersebut minimal ipk nya benar 3.25?",3.461,OK
+"2026-08-03 04:13:58",syarat,6.09,OK
+"2026-08-03 04:17:11","Rekomendasi beasiswa S1 dengan IPK minimal 3.25",10.53,OK
+"2026-08-03 04:17:24","no 5",3.502,OK
+"2026-08-03 04:17:33","beasiswa tersebut minimal ipk nya benar 3.25?",3.534,OK
+"2026-08-03 04:17:58",syarat,6.781,OK
+"2026-08-03 04:29:23","Rekomendasi beasiswa S1 dengan IPK minimal 3.25",11.529,OK
+"2026-08-03 04:30:15","beasiswa tersebut minimal ipk nya benar 3.25?",11.052,OK
+"2026-08-03 04:34:06","Rekomendasi beasiswa S1 dengan IPK minimal 3.25",8.947,OK
+"2026-08-03 04:34:23","beasiswa tersebut minimal ipk nya benar 3.25?",3.57,OK
+"2026-08-03 04:34:36","no 5",3.439,OK
+"2026-08-03 04:34:52","beasiswa tersebut minimal ipk nya benar 3.25?",3.31,OK
+"2026-08-03 04:35:39","no 1",3.712,OK
+"2026-08-03 04:35:48","beasiswa tersebut minimal ipk nya benar 3.25?",3.654,OK
+"2026-08-03 04:36:17","Tampilkan beasiswa di benua Asia untuk S2",11.691,OK
+"2026-08-03 04:38:00","Siapa pencipta lagu Indonesia Raya?",3.856,OK
+"2026-08-03 04:38:19","Assalamualaikum, mau tanya-tanya tentang beasiswa",6.238,OK
+"2026-08-03 04:40:00","Tolong carikan beasiswa S1 dengan syarat wajib bisa bahasa Arab",10.907,OK
+"2026-08-03 04:40:51","no 5",3.785,OK
+"2026-08-03 04:41:04","beasiswa tersebut harus bisa bahasa arab?",3.15,OK
+"2026-08-03 04:41:38","Carikan beasiswa yang menanggung biaya tiket pesawat",9.028,OK
+"2026-08-03 04:43:15","no 5",4.314,OK
+"2026-08-03 04:43:27","biaya tiket pesawat ditanggung>",3.211,OK
+"2026-08-03 04:43:56","Apakah beasiswa ini wajib punya surat rekomendasi?",3.318,OK
+"2026-08-03 04:44:18","Berapa suhu di kota Jakarta hari ini?",4.014,OK
+"2026-08-03 04:44:38","Beasiswa S1 dalam negeri untuk tahun 2025",9.363,OK
+"2026-08-03 04:45:03","Cari beasiswa S1 di benua Australia",17.259,OK
+"2026-08-03 04:45:17","Beasiswa S3 selain yang bertipe Partially Funded",11.059,OK
+"2026-08-03 04:45:57","no 5",3.93,OK
+"2026-08-03 04:46:07","Syarat pendaftaran beasiswa yang sedang saya pilih apa saja?",6.218,OK
+"2026-08-03 04:46:21","Tolong tampilkan beasiswa S2 dengan syarat Sertifikat HSK",10.589,OK
+"2026-08-03 04:46:52","no 3",3.201,OK
+"2026-08-03 04:47:09","harus menyertakan sertifikat hsk?",3.359,OK
+"2026-08-03 04:47:21","Carikan beasiswa S1 di Universitas Indonesia",3.636,OK
+"2026-08-03 04:47:31","Bandingkan beasiswa nomor 1 dengan nomor 3, bagusan mana?",2.965,OK
+"2026-08-03 04:52:46","Cari beasiswa S1 yang syarat nilai UTBK-nya minimal 650",11.678,OK
+"2026-08-03 04:53:58","no 2",3.504,OK
+"2026-08-03 04:54:12","nilai utbk nya beasiswa itu harus berapa",5.75,OK
+"2026-08-03 04:58:58","Tolong tampilkan beasiswa S2 dengan syarat Sertifikat Jepang (JLPT)",11.177,OK
+"2026-08-03 05:00:56","no 1",3.91,OK
+"2026-08-03 05:01:15","beasiswa tersebut harus adasertifikat jepang ?",5.728,OK
+"2026-08-03 05:02:21","Bagaimana cara membuat visa setelah saya lolos beasiswa nomor 2?",3.909,OK
+"2026-08-03 05:06:40","Beasiswa S2 full gratis di benua Eropa yang masih buka",10.966,OK
+"2026-08-03 05:07:36","Bagaimana cara membuat visa setelah saya lolos beasiswa nomor 2?",4.473,OK
+"2026-08-03 05:10:30","carikan beasiswa s1 ln",11.276,OK
+"2026-08-03 05:10:38","Bagaimana cara membuat visa setelah saya lolos beasiswa nomor 2?",3.279,OK
+"2026-08-03 05:12:12","berikan beasiswa s1 di ln australia",10.371,OK
+"2026-08-03 05:13:05","Bagaimana cara membuat visa setelah saya lolos beasiswa nomor 2?",3.252,OK
+"2026-08-03 05:13:19","Tampilkan beasiswa yang tutup hari Selasa minggu depan",9.866,OK
+"2026-08-03 05:13:37","siapa pencipta lagu kartini",2.769,OK
+"2026-08-05 02:55:53","Cari beasiswa S1 di benua Australia",19.036,OK
+"2026-08-06 06:34:19","Ada beasiswa S1 ln?",16.333,OK
+"2026-08-06 06:34:45","Beasiswa tanpa IELTS ada?",12.284,OK
+"2026-08-06 06:34:57","no 5",3.582,OK
+"2026-08-06 06:35:09",kembali,4.749,OK
+"2026-08-06 06:35:26","no 4",3.942,OK
+"2026-08-06 06:35:50","benarkah beasiswa tersebut tanpa ielts?",3.913,OK
+"2026-08-12 00:49:30","Halo, selamat pagi kak mau tanya",5.966,OK
+"2026-08-12 00:49:49","Ada beasiswa S1 ln?",8.464,OK
+"2026-08-12 01:01:15","olong tampilkan halaman berikutnya",3.376,OK
+"2026-08-12 01:01:59","Tolong jelaskan apa saja benefit beasiswa nomor 3",3.663,OK
+"2026-08-12 01:02:10","Bagaimana cara mendaftar beasiswa tersebut?",2.268,OK
+"2026-08-12 01:02:21","Apakah beasiswa nomor 1 berlokasi di Jepang?",3.023,OK
+"2026-08-12 01:02:30","Ada syarat minimal IPK ga untuk beasiswa ini?",5.139,OK
+"2026-08-12 01:02:51","Oke, saya paham kak",2.077,OK
+"2026-08-12 01:02:56","Terima kasih banyak ya bantuannya",2.347,OK
+"2026-08-12 01:27:34","Kapan deadline pendaftaran beasiswa nomor 4?",5.158,OK
+"2026-08-12 01:27:42","Kasih tau link resmi website beasiswa ini dong",2.16,OK
+"2026-08-12 01:27:53","Apakah beasiswa nomor 2 ini tipenya fully funded?",2.569,OK
+"2026-08-12 01:28:05","Ada syarat harus bisa bahasa Jepang ga?",3.836,OK
+"2026-08-12 01:28:14","Apakah beasiswa tersebut mewajibkan dokumen paspor?",2.35,OK
+"2026-08-12 01:31:35","Apakah beasiswa tersebut mewajibkan dokumen paspor?",5.565,OK
+"2026-08-12 01:33:17","Apakah beasiswa tersebut mewajibkan dokumen paspor?",5.432,OK
+"2026-08-12 01:39:15","Apakah beasiswa tersebut mewajibkan dokumen paspor?",10.633,OK
+"2026-08-12 01:42:03","Rekomendasi beasiswa S1 dengan IPK minimal 3.25",17.772,OK
+"2026-08-12 01:43:21",next,3.981,OK
+"2026-08-12 01:43:40",next',3.026,OK
+"2026-08-12 01:44:33","no 15",2.734,OK
+"2026-08-12 01:44:50","Apakah beasiswa tersebut mewajibkan dokumen paspor?",4.93,OK
+"2026-08-12 01:46:49","Apakah beasiswa tersebut mewajibkan dokumen paspor?",5.649,OK
